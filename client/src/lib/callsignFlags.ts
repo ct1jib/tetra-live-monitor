@@ -21,7 +21,7 @@ const PREFIX_MAP: [string, string][] = [
   ["ON", "be"],
   ["HB", "ch"], ["HB9", "ch"],
   ["OE", "at"],
-  ["CT", "pt"],
+  ["CT", "pt"], ["CU", "pt"], ["CR", "pt"], ["CS", "pt"],
   ["SV", "gr"],
   ["OH", "fi"],
   ["SM", "se"], ["SA", "se"], ["SB", "se"], ["SC", "se"], ["SD", "se"], ["SE", "se"], ["SF", "se"], ["SG", "se"], ["SH", "se"], ["SI", "se"], ["SJ", "se"], ["SK", "se"], ["SL", "se"],
